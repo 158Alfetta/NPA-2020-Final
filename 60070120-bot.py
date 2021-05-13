@@ -3,8 +3,8 @@ import requests
 from prettyprinter import pprint
 requests.packages.urllib3.disable_warnings()
 
-ACCESS_TOKEN = "OWUzMDQ2ZGItNzBmYS00YWI3LWFmYjMtOGUyNjEyODY3MWM1YWFkNDZlNGUtN2Yw_PF84_consumer"
-ROOM_ID = "Y2lzY29zcGFyazovL3VzL1JPT00vNjA5Nzk5NDAtNTU3My0xMWViLWEzNzUtY2JkMGE4ZjAxYTA3"
+ACCESS_TOKEN = ""
+ROOM_ID = ""
 
 def getData():
 
